@@ -23,7 +23,6 @@ Using a dataset of **30,000 job records** across 8 industries and 8 countries, w
 01-AI-Job-Impact/
 ├── ai_job_impact_eda.ipynb     ← Main EDA Notebook
 ├── ai_job_trends_dataset.csv   ← Dataset
-├── report.pdf                  ← Summary Report
 ├── images/                     ← All saved plots
 │   ├── ai_impact_distribution.png
 │   ├── industry_distribution.png
