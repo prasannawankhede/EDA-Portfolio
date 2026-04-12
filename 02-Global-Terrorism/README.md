@@ -16,6 +16,9 @@ attacks worldwide, covering **1970 to 2017**.
 The dataset contains **1,81,691 attacks** across **205 countries** with **135 features** 
 per incident — maintained by researchers at the University of Maryland.
 
+> **Note:** Dataset is too large for GitHub. 
+> Download from [Kaggle GTD](https://www.kaggle.com/datasets/START-UMD/gtd)
+
 ---
 
 ## 🎯 Objective
