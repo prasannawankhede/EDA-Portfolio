@@ -15,6 +15,7 @@
 |---|---|---|---|---|
 | 01 | [AI Job Market Impact](./01-AI-Job-Impact/) | AI Job Trends (Kaggle) | 30,000 | ✅ Complete |
 | 02 | [Global Terrorism EDA](./02-Global-Terrorism/) | GTD — University of Maryland | 1,81,691 | ✅ Complete |
+| 03 | [Customer Churn EDA](03-Customer-Churn/README.md) | IBM Telco Dataset (Kaggle) | 7,043 | ✅ Complete |
 
 ---
 
